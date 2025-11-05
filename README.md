@@ -1,52 +1,68 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">Hi 👋, I'm Ayush Mittal</h1>
+<h3 align="center">A Passionate Full Stack Web Developer from India 🇮🇳</h3>
 
-###
+---
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
-</div>
+### 🚀 About Me
 
-###
+💻 I’m a **Web Developer** who loves building scalable and user-friendly web apps.  
+🌱 Currently learning **Next.js**, **TypeScript**, and **Backend Development**.  
+🎯 Goal: To become a **Full Stack Engineer** and contribute to **Open Source**.  
+⚡ Fun fact: I debug my bugs with console.log and caffeine ☕  
+
+---
+
+### 🛠️ Languages and Tools
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,nestjs,express,mongodb,postgres,html,css,tailwind,git,github,vscode,jest,postman)](https://skillicons.dev)
+
 </div>
 
-###
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+
+![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyushMittal&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushMittal&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AyushMittal&theme=tokyonight)
+
 </div>
 
-###
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
+### 🌐 Connect with Me
 
-###
+<p align="center">
+<a href="https://linkedin.com/in/ayush-mittal" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white" height="30"/>
+</a>
+<a href="mailto:ayushmittal.dev@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" height="30"/>
+</a>
+<a href="https://github.com/AyushMittal" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" height="30"/>
+</a>
+</p>
+
+---
+
+### 🧠 My Dev Philosophy
+> "Code is like humor. When you have to explain it, it’s bad."  
+> — Cory House
+
+---
+
+### ✨ Highlight Projects
+
+- 🧩 **Portfolio Website** – Built with Next.js, Tailwind CSS, and Framer Motion.  
+- 🔥 **API Backend** – REST API built with NestJS and MongoDB.  
+- 📱 **News App** – React + API integration for live news updates.  
+
+---
+
+⭐ **"Strive to build things that make a difference!"**
+
