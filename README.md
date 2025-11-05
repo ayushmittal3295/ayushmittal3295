@@ -9,7 +9,7 @@
 - 🎯 My goal is to become a **Full-Stack Developer** and contribute to open-source projects.  
 - ⚡ Fun fact: I can spend hours perfecting UI details until it feels *just right*!  
 - 💬 Ask me about **Web Development, JavaScript, or APIs**  
-- 📫 Reach me at **ayushmittal@example.com** (replace with your real email)
+- 📫 Reach me at **mittalayush0205@gmail.com** 
 
 ---
 
