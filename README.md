@@ -1,33 +1,17 @@
-<!-- 💫 Advanced Futuristic Header Section -->
+<!-- 🌟 Gradient Banner with Animation -->
 <p align="center">
-  <!-- Gradient Animated Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=0,2,45,75,120&text=✨%20Ayush%20Mittal%20✨&fontAlign=50&fontAlignY=38&fontColor=ffffff&fontSize=48&animation=twinkling&desc=🚀%20Full-Stack%20Web%20Developer%20%7C%20Frontend%20Specialist%20%7C%20Tech%20Explorer&descAlignY=60&descAlign=50" alt="Ayush Mittal Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=0,2,30,60,90&text=Ayush%20Mittal%20👋&fontAlign=50&fontAlignY=38&fontColor=ffffff&fontSize=45&animation=twinkling&desc=🚀%20Full-Stack%20Web%20Developer%20%7C%20Frontend%20Specialist%20%7C%20Tech%20Explorer&descAlignY=60&descAlign=50" alt="header banner" />
 </p>
 
-<!-- 🔥 Neon Glow Main Title -->
-<h1 align="center" style="color:#00E7FF; text-shadow: 0px 0px 15px #00E7FF, 0px 0px 30px #00E7FF;">
-  <span style="font-family: 'Fira Code', monospace;">👋 Hey, I'm <strong>Ayush Mittal</strong></span>
-</h1>
-
-<!-- 🎯 Dual Typing Animation Lines -->
+<!-- 🩵 Typing Animated Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=700&color=00E7FF&center=true&vCenter=true&width=700&lines=💻+Full-Stack+Web+Developer;🎨+UI%2FUX+Focused+Frontend+Engineer;🚀+React%2C+Next.js+%26+Node.js+Specialist;🧠+Exploring+AI%2C+Cloud%2C+and+Modern+Tech+Stacks" alt="Typing Animation 1" />
-  <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=900&color=7DF9FF&center=true&vCenter=true&width=550&lines=⚡+Turning+ideas+into+elegant+digital+experiences;💡+Coding+creativity+into+reality;✨+Always+learning%2C+always+building" alt="Typing Animation 2" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=00E7FF&center=true&vCenter=true&width=650&lines=👨‍💻+Passionate+Frontend+Developer;💡+Lifelong+Learner+%7C+Innovator;⚙️+Crafting+Modern+%26+Responsive+Web+Apps;🌍+Turning+Ideas+Into+Digital+Reality;🚀+Building+with+Passion+and+Precision" alt="Typing Intro" />
 </p>
 
-<!-- 🌐 Tagline Divider -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212748947-2f78a2b3-6d9d-4e54-9c7b-3c8c95b7c8d3.gif" width="350" alt="divider line" />
-</p>
-
-<!-- 🪄 Subtle Motto -->
+<!-- 🧩 Minimalistic Tagline Below Typing Animation -->
 <h3 align="center">
-  <i>“Dream in Code, Build with Passion.”</i><br>
-  <i>— Ayush Mittal</i>
+  <i>✨ "Code with creativity, design with purpose." ✨</i>
 </h3>
-
-
 
 ---
 
