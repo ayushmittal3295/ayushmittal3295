@@ -108,13 +108,18 @@
 
 ---
 
-<!-- ⚡ Animated Footer -->
+<!-- ⚡ Advanced Animated Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00E7FF&height=120&section=footer&text=👋%20Thanks%20for%20visiting!%20%F0%9F%9A%80&fontSize=25&fontColor=ffffff&animation=fadeIn" alt="Thanks for visiting" />
+  <!-- Animated Waving Capsule Footer -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer&text=👋%20Thanks%20for%20visiting!%20🚀&fontSize=28&fontAlign=50&fontAlignY=60&fontColor=ffffff&animation=twinkling" alt="Thanks for visiting" />
 </p>
 
-
+<!-- Glowing Tagline Text -->
 <p align="center">
-  <i>✨ “Dream in code, build with passion.” ✨</i><br>
-  <i>— Ayush Mittal</i>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00E7FF&center=true&vCenter=true&width=600&lines=✨+Dream+in+Code,+Build+with+Passion+✨;💡+Keep+Creating,+Keep+Inspiring+💡;🚀+—+Ayush+Mittal+🚀" alt="Animated Footer Text" />
+</p>
+
+<!-- Floating Icons for a Dynamic Touch -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="80%" />
 </p>
