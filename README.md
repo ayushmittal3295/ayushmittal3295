@@ -1,15 +1,19 @@
 <!-- Animated Banner -->
+<!-- 🌟 Gradient Banner with Animation -->
 <p align="center">
-  <img src="https://github.com/ayushmittal3295/ayushmittal3295/assets/banner.gif" alt="Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=0,2,30,60,90&text=Ayush%20Mittal%20👋&fontAlign=50&fontAlignY=38&fontColor=ffffff&fontSize=45&animation=twinkling&desc=🚀%20Full-Stack%20Web%20Developer%20%7C%20Frontend%20Specialist%20%7C%20Tech%20Explorer&descAlignY=60&descAlign=50" alt="header banner" />
 </p>
 
-<h1 align="center">✨ Hey, I'm <a href="https://github.com/ayushmittal3295">Ayush Mittal</a> 👋</h1>
-<h3 align="center">🚀 Full-Stack Web Developer | Frontend Specialist | Tech Explorer</h3>
-
-<!-- Typing SVG -->
+<!-- 🩵 Typing Animated Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Frontend+Developer+💻;React+%7C+Next.js+%7C+Node.js;Creating+beautiful+and+functional+web+apps;Open-Source+Contributor+🌟;Building+with+Passion+%26+Purpose+🔥" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=00E7FF&center=true&vCenter=true&width=650&lines=👨‍💻+Passionate+Frontend+Developer;💡+Lifelong+Learner+%7C+Innovator;⚙️+Crafting+Modern+%26+Responsive+Web+Apps;🌍+Turning+Ideas+Into+Digital+Reality;🚀+Building+with+Passion+and+Precision" alt="Typing Intro" />
 </p>
+
+<!-- 🧩 Minimalistic Tagline Below Typing Animation -->
+<h3 align="center">
+  <i>✨ "Code with creativity, design with purpose." ✨</i>
+</h3>
+
 
 ---
 
