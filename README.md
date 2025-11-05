@@ -1,49 +1,51 @@
-<!-- Animated Banner -->
+<!-- 🌟 Animated Banner -->
 <p align="center">
-  <img src="https://github.com/ayushmittal3295/ayushmittal3295/assets/banner.gif" alt="Banner" width="100%" />
+  <img src="https://i.ibb.co/9qXbJcX/animated-dev-banner.gif" alt="Ayush Mittal Banner" width="100%" />
 </p>
 
-<h1 align="center">✨ Hey, I'm <a href="https://github.com/ayushmittal3295">Ayush Mittal</a> 👋</h1>
-<h3 align="center">🚀 Full-Stack Web Developer | Frontend Specialist | Tech Explorer</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&duration=2500&pause=1000&color=00E7FF&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Ayush+Mittal!+👋;Full+Stack+Web+Developer+🚀;Creative+Frontend+Engineer+💡" alt="Typing SVG" />
+</h1>
 
-<!-- Typing SVG -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Frontend+Developer+💻;React+%7C+Next.js+%7C+Node.js;Creating+beautiful+and+functional+web+apps;Open-Source+Contributor+🌟;Building+with+Passion+%26+Purpose+🔥" alt="Typing SVG" />
-</p>
+<h3 align="center">✨ Crafting Clean, Modern & Scalable Web Experiences ✨</h3>
 
 ---
 
 ### 👨‍💻 About Me  
 
-💡 A passionate developer focused on **building immersive, performant web experiences**.  
-🎯 On my journey to mastering the **MERN Stack (MongoDB, Express, React, Node.js)**.  
-🧠 Currently exploring **Next.js**, **TypeScript**, and **Cloud Deployment**.  
-⚡ Fun fact: I believe **good UI = good mood** 😄  
-📫 Contact: **mittalayush0205@gmail.com**
+💡 Passionate about **building immersive, performant** and **aesthetic** digital experiences.  
+🎯 On a journey mastering the **MERN Stack** — MongoDB | Express | React | Node.js.  
+🧠 Exploring **Next.js**, **TypeScript**, and **Cloud Deployment** (Vercel / AWS).  
+🎨 Love for clean UI & smooth UX — because *“Good UI = Good Mood”* 😄  
+📬 Reach me at: **mittalayush0205@gmail.com**
 
 ---
 
-### 🧰 Tech Stack  
+### 🧠 Tech Arsenal  
 
-#### 🖥️ Frontend
+#### ⚡ Frontend  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap,tailwind,typescript" alt="Frontend Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,bootstrap,tailwind" alt="Frontend Skills" />
 </p>
 
-#### ⚙️ Backend & Tools
+#### 🛠️ Backend & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,git,github,vscode,postman,figma" alt="Backend & Tools" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,git,github,vscode,postman,figma" alt="Backend Skills" />
 </p>
 
-#### 🧩 Other Skills
-- UI/UX Design with Figma 🎨  
-- REST API Development 🌐  
-- Version Control & Collaboration ⚙️  
-- Performance Optimization 🚀  
+#### 🧩 Other Expertise  
+- ✨ UI/UX Design with **Figma**  
+- 🌐 REST API Integration  
+- ⚙️ Version Control & CI/CD Pipelines  
+- 🚀 Performance Optimization & SEO  
 
 ---
 
-### ⚙️ GitHub Analytics  
+### 🚀 My GitHub Universe  
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushmittal3295&theme=tokyonight&hide_border=true" height="180em" />
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ayushmittal3295&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180em" />
@@ -52,18 +54,27 @@
 
 ---
 
-### 🏆 GitHub Highlights  
+### 🏆 Achievements  
+
+🏗️ Built production-ready web apps using **React + Tailwind CSS**  
+🌐 Integrated multiple **REST APIs** for real-world projects  
+🧠 Enhanced backend expertise with **Node.js + Express.js**  
+💫 Continuously contributing to **open-source** and learning emerging tech  
+
+---
+
+### 💥 Dynamic GitHub Highlights  
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ayushmittal3295&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ayushmittal3295&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
 </div>
 
 ---
 
-### 🌈 GitHub Summary Cards  
+### 🌌 GitHub Summary Cards  
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayushmittal3295&theme=tokyonight" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayushmittal3295&theme=tokyonight" width="100%" />
 </div>
 
 <div align="center">
@@ -76,26 +87,17 @@
 ### 📈 Contribution Graph  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushmittal3295&theme=react-dark&hide_border=true&bg_color=0D1117&color=00E7FF&line=00E7FF&point=FFFFFF" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushmittal3295&theme=react-dark&hide_border=true&bg_color=0D1117&color=00E7FF&line=00E7FF&point=FFFFFF" alt="GitHub Activity Graph" />
 </p>
-
----
-
-### 🏅 Achievements  
-
-- 💻 Built responsive web apps using **React + Tailwind CSS**  
-- 🧠 Integrated multiple **REST APIs** in production-ready projects  
-- 🌱 Constantly improving my backend expertise with **Node.js + Express**  
-- 🎯 Focused on clean, modern UI/UX for every project  
 
 ---
 
 ### 🌐 Connect With Me  
 
 <p align="center">
-  <a href="mailto:mittalayush0205@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/ayush-mittal-241424295"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/ayushmittal3295"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:mittalayush0205@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/ayush-mittal-241424295"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/ayushmittal3295"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
@@ -108,11 +110,12 @@
 
 ---
 
+<!-- ⚡ Animated Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00E7FF&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&text=Thanks+for+Visiting!+💙&fontAlign=50&fontAlignY=40&fontSize=30&desc=Keep+Building,+Keep+Evolving!&descAlign=50&descAlignY=70" />
 </p>
 
 <p align="center">
   <i>✨ “Dream in code, build with passion.” ✨</i><br>
-  <i>— Ayush Mittal</i>
+  <b>— Ayush Mittal</b>
 </p>
