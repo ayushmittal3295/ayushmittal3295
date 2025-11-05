@@ -108,9 +108,11 @@
 
 ---
 
+<!-- ⚡ Animated Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00E7FF&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00E7FF&height=120&section=footer&text=👋%20Thanks%20for%20visiting!%20%F0%9F%9A%80&fontSize=25&fontColor=ffffff&animation=fadeIn" alt="Thanks for visiting" />
 </p>
+
 
 <p align="center">
   <i>✨ “Dream in code, build with passion.” ✨</i><br>
