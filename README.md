@@ -1,68 +1,89 @@
-<h1 align="center">Hi 👋, I'm Ayush Mittal</h1>
-<h3 align="center">🚀 Web Developer | Tech Enthusiast | Lifelong Learner</h3>
+<!-- Profile Header -->
+<h1 align="center">👋 Hey there, I'm <a href="https://github.com/ayushmittal3295">Ayush Mittal</a></h1>
+<h3 align="center">💻 Web Developer | Frontend Specialist | Tech Enthusiast</h3>
+
+<p align="center">
+  <a href="mailto:mittalayush0205@gmail.com"><img src="https://img.shields.io/badge/Email-mittalayush0205%40gmail.com-red?style=flat-square&logo=gmail"></a>
+  <a href="https://linkedin.com/in/ayush-mittal-241424295"><img src="https://img.shields.io/badge/LinkedIn-Ayush%20Mittal-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://github.com/ayushmittal3295"><img src="https://img.shields.io/badge/GitHub-ayushmittal3295-black?style=flat-square&logo=github"></a>
+</p>
 
 ---
 
-### 👨‍💻 About Me  
-- 💡 I’m passionate about **building interactive web experiences** and solving real-world problems through code.  
-- 🌱 Currently exploring **Next.js, React, and Node.js** to create full-stack applications.  
-- 🎯 My goal is to become a **Full-Stack Developer** and contribute to open-source projects.  
-- ⚡ Fun fact: I can spend hours perfecting UI details until it feels *just right*!  
-- 💬 Ask me about **Web Development, JavaScript, or APIs**  
-- 📫 Reach me at **mittalayush0205@gmail.com** 
+### 🧠 About Me  
+
+- 🔭 I’m currently working on **modern, responsive web projects** using React and Next.js  
+- 🌱 Learning **MERN stack & backend APIs** to become a full-stack developer  
+- 💬 Ask me about **JavaScript, React, APIs, or Frontend Development**  
+- ⚡ Fun fact: I believe *clean code is a form of art 🎨*  
+- 📫 Reach me at: **mittalayush0205@gmail.com**  
 
 ---
 
-### 🧠 Skills & Technologies  
+### 🧩 Tech Stack  
 
-#### 💻 Frontend
+#### 🚀 Frontend  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap,tailwind" />
 </p>
 
-#### ⚙️ Backend & Tools
+#### 🧠 Backend & Tools  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,git,github,vscode,postman" />
 </p>
 
-#### 🧩 Other Interests
-- UI/UX Design 🎨  
-- API Development 🌐  
-- Open Source 💬
+#### 🛠️ Other Skills  
+- UI/UX Design with Figma  
+- REST API Integration  
+- Version Control (Git, GitHub)  
+- Responsive & Accessible Design  
 
 ---
 
-### 📊 GitHub Stats  
+### 📊 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AyushMittal&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ayushmittal3295&show_icons=true&theme=tokyonight&hide_border=true" height="160px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushmittal3295&theme=tokyonight&hide_border=true" height="160px" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyushMittal&theme=tokyonight" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushMittal&layout=compact&theme=tokyonight" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushmittal3295&layout=compact&theme=tokyonight&hide_border=true" height="160px" />
 </p>
 
 ---
 
-### 🏆 Achievements  
-- 🥇 Completed multiple frontend projects using **React + Tailwind CSS**  
-- 🌟 Built responsive web apps and contributed to student tech communities  
-- 🧠 Always open to collaboration on exciting projects  
+### 🏆 Achievements & Highlights  
+
+- 💡 Developed interactive web applications using **React + Tailwind CSS**  
+- 🔥 Contributed to open-source and college-level tech projects  
+- 🚀 Focused on building real-world, performance-optimized UIs  
+- 🧠 Passionate about continuous learning and improving web performance  
 
 ---
 
 ### 🌐 Connect with Me  
+
 <p align="left">
-<a href="https://linkedin.com/in/ayushmittal" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="40" /></a>
-<a href="https://twitter.com/ayushmittal" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="twitter" height="40" /></a>
-<a href="https://ayushmittal-portfolio.vercel.app" target="blank"><img align="center" src="https://skillicons.dev/icons?i=vercel" alt="portfolio" height="40" /></a>
+  <a href="mailto:mittalayush0205@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
+  <a href="https://linkedin.com/in/ayush-mittal-241424295"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
+  <a href="https://github.com/ayushmittal3295"><img src="https://skillicons.dev/icons?i=github" height="40" /></a>
 </p>
 
 ---
 
-<p align="center">✨ "Code. Create. Inspire." ✨</p>
+### ⚙️ Fun Add-ons  
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ayushmittal3295&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushmittal3295&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+</p>
+
+---
+
+<p align="center">
+  <i>✨ “Code. Create. Contribute.” ✨</i>
+</p>
