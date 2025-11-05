@@ -21,7 +21,6 @@
 🎯 On my journey to mastering the **MERN Stack (MongoDB, Express, React, Node.js)**.  
 🧠 Currently exploring **Next.js**, **TypeScript**, and **Cloud Deployment**.  
 ⚡ Fun fact: I believe **good UI = good mood** 😄  
-📫 Contact: **mittalayush0205@gmail.com**
 
 ---
 
