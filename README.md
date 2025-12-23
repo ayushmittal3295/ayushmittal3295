@@ -84,11 +84,11 @@
 
 ### 🏅 Achievements  
 
-💻 Built responsive web apps using React + Tailwind CSS
-🌱 Constantly improving my backend expertise with Node.js
-🎯 Focused on clean, modern UI/UX for every project
-🏆 Awarded with a college scholarship based on academic excellence
-🍎 Selected for the iOS Student Developer Program Bootcamp
+- 💻 Built responsive web apps using React + Tailwind CSS
+- 🌱 Constantly improving my backend expertise with Node.js
+- 🎯 Focused on clean, modern UI/UX for every project
+- 🏆 Awarded with a college scholarship based on academic excellence
+- 🍎 Selected for the iOS Student Developer Program Bootcamp
 ---
 
 ### 🌐 Connect With Me  
