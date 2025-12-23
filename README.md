@@ -18,8 +18,8 @@
 ### 👨‍💻 About Me  
 
 💡 A passionate developer focused on **building immersive, performant web experiences**.  
-🎯 On my journey to mastering the **MERN Stack (MongoDB, Express, React, Node.js)**.  
-🧠 Currently exploring **Next.js**, **TypeScript**, and **Cloud Deployment**.  
+🎯 On my journey to mastering the **Data Structures and Algorithms**.  
+🧠 Currently exploring **Node.js** and **Cloud Deployment**.  
 ⚡ Fun fact: I believe **good UI = good mood** 😄  
 
 ---
@@ -28,12 +28,12 @@
 
 #### 🖥️ Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap,tailwind,typescript" alt="Frontend Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" alt="Frontend Skills" />
 </p>
 
 #### ⚙️ Backend & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,git,github,vscode,postman,figma" alt="Backend & Tools" />
+  <img src="https://skillicons.dev/icons?i=nodejs,git,github,vscode,postman,figma" alt="Backend & Tools" />
 </p>
 
 #### 🧩 Other Skills
@@ -86,7 +86,7 @@
 
 - 💻 Built responsive web apps using **React + Tailwind CSS**  
 - 🧠 Integrated multiple **REST APIs** in production-ready projects  
-- 🌱 Constantly improving my backend expertise with **Node.js + Express**  
+- 🌱 Constantly improving my backend expertise with **Node.js**  
 - 🎯 Focused on clean, modern UI/UX for every project  
 
 ---
